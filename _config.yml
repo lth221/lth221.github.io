@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Taeho Lee"
-  avatar           : "/assets/images/globe.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Man on the street." 
+  avatar           : "/assets/images/avatar.png" # path of avatar image
+  bio              : "The man in the street." 
   location         : "Los Angeles, CA" 
   email            :
   links:
