@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Taeho's Thoughts"
 title_separator          : "|"
-subtitle                 : "Prepare for the new era" # site tagline that appears below site title in masthead
+subtitle                 : "Prepare for the new era." # site tagline that appears below site title in masthead
 name                     : "Taeho Lee" # Name in the bottom
 description              : "" ########## 이건 어디에 적용이 되는거야?
 url                      : "https://lth221.github.io"
