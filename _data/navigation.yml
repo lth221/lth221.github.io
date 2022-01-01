@@ -1,13 +1,13 @@
 # main links
 main:
-   - title: "About"
-     url: https://lth221.github.io/about/about/
+  - title: "About"
+    url: /about/
 
-   - title: "Posts"
-     url: /categories/
+  - title: "Posts"
+    url: /posts-grid/
     
-   - title: "Search"
-     url: /search/
+  - title: "Search"
+    url: /search/
 
 
   #- title: "Tag"
@@ -19,8 +19,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
 docs:
-  - title: "aaa"
+  - title: "Posts"
     children:
       - title: "Category"
         url: /categories/
