@@ -5,7 +5,10 @@ main:
 
   - title: "Posts"
     url: /posts-grid/
-    
+
+  - title: "Portfolios"
+    url: /portfolios/
+
   - title: "Search"
     url: /search/
 

@@ -6,4 +6,3 @@ author_profile: true
 ---
 
 Hi! <br />
-Would you join me?
