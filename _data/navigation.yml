@@ -3,11 +3,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Posts"
-    url: /posts-grid/
-
   - title: "Portfolios"
-    url: /portfolios/
+    url: /posts-grid/
 
   - title: "Search"
     url: /search/
@@ -19,12 +16,12 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
-  #   url: /collection-archive/
+  #  url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
 
 docs:
-  - title: "Posts"
+  - title: "Portfolios"
     children:
       - title: "Category"
         url: /categories/

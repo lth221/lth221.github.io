@@ -1,5 +1,5 @@
 ---
-title: "Posts by Categories"
+title: "Portfolios by Categories"
 permalink: /posts-grid/
 layout: categories
 author_profile: true
