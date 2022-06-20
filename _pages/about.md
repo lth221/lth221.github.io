@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Hello! Welcome to my webpage. 
+Hello! Welcome to my website. 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.png){: .align-left} 
 I love data analysis. And through analysis, I am always thinking about how a person should live. I believe that we should aim to make the world a better place to live. I always want to keep an open mind when approaching everything in the world.
@@ -23,7 +23,7 @@ Data Science : Programming, Modeling, Machine Learning, Deep Learning, NLP
 **Student Data Scientist**      
 *Octane OC, Irvine, CA, United States*     
 *Feb 2022 – Jun 2022 (5 mos)*      
-* Developed machine learning and deep learning models for startup accelertor to predict the likelihood of a startup funding and got 97% prediction accuracy.
+* Developed machine learning and deep learning models for startup accelerator to predict the likelihood of a startup funding and got 97% prediction accuracy.
 * Built a comprehensive dataset on the startups that consulted Octane by using Postgres SQL.
 * Performed robust data cleaning, modeling and optimizing process to identify the most important factors for predicting and to increase prediction accuracy.
 * Applied NLP techniques to ingest pitch deck transcription and built deep learning model to increase the prediction accuracy by using TensorFlow.
