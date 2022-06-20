@@ -9,7 +9,7 @@ classes: wide
 Hello! Welcome to my website. 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.png){: .align-left} 
-I love data analysis. And through analysis, I am always thinking about how a person should live. I believe that we should aim to make the world a better place to live. I always want to keep an open mind when approaching everything in the world.
+I love data analysis. Through analyses, I always think about how a person should live. I believe that we should aim to make the world a better place to live. I always want to keep an open mind when approaching everything in the world.
 
 I've shared my projects and thoughts here, so take a look around and feel free to reach out to me.
 <br />
