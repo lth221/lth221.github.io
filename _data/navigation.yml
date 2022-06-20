@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Portfolios"
+  - title: "Posts"
     url: /posts-grid/
 
   - title: "Search"
