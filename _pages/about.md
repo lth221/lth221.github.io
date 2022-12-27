@@ -18,7 +18,7 @@ I've shared my projects and thoughts here, so take a look around and feel free t
 
 Data Science : Machine Learning, Deep Learning, NLP <br />
 Finance : IPO, Venture Capital, Algo Trading, Cryptos <br />
-Blockchain : NFT, P2E
+Blockchain : DAOs, DeFi, NFTs, P2E
 
 ## Tech Skills
 Programming Languages : Python, R, HTML <br />
