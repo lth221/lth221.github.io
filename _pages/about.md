@@ -9,25 +9,19 @@ classes: wide
 Hello! Welcome to my website. 
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/profile.png){: .align-left} 
-I love data analysis. Through analyses, I always think about how a person should live. I believe that we should aim to make the world a better place to live. I always want to keep an open mind when approaching everything in the world.
 
 I've shared my projects and thoughts here, so take a look around and feel free to reach out to me.
 <br />
 
-## Area of Interest
 
-Data Science : Machine Learning, Deep Learning, NLP <br />
-Finance : IPO, Venture Capital, Algo Trading, Cryptos <br />
-Blockchain : DAOs, DeFi, NFTs, P2E
-
-## Tech Skills
-Programming Languages : Python, R, HTML <br />
-Libraries : Pandas, Numpy, TensorFlow, Keras, scikit-learn, SciPy, seaborn, statsmodel, matplotlib <br />
-Platforms : AWS, Git, Alteryx <br />
-Databases : PostgreSQL <br />
-Business Intelligence Tools : Tableau
 
 ## Experience
+**Data Analyst - Acquisitions & Portfolio Analytics**      
+*Hyundai Capital America, Irvine, CA, United States*     
+*Apr 2023 – present (9 mos)*      
+* Provided profitability analysis for product, new pricing proposals, and policy decisions, checking key assumptions and impacts on rates
+* Performed data analysis/validation, data manipulation, and database building in SQL/Python/SAS
+
 **Student Data Scientist**      
 *Octane OC, Irvine, CA, United States*     
 *Feb 2022 – Jun 2022 (5 mos)*      
